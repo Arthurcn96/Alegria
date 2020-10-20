@@ -4,7 +4,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Landing from './pages/Landing';
 import OrphanagesMap from './pages/OrphanagesMap';
 
-function route(){
+function Routes(){
     return(
         <BrowserRouter>
             <Switch>
