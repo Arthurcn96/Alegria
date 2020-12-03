@@ -4,7 +4,7 @@ import {FiPlus} from 'react-icons/fi'
 
 import mapMarkerImg from '../images/Local.svg';
 
-import '../styles/pages/OrphanagesMap.css';
+import '../styles/pages/orphanagesMap.css';
 
 function OrphanagesMap(){
     return(
